@@ -355,8 +355,8 @@ div.footer h6 {
 @media (max-width: 768px){
 
     div.logo {
-        font-size: 1rem;
-        top: 30px;
+        font-size: 1.4rem;
+        padding-top: 30px;
     }
  
     div.hero-section {
