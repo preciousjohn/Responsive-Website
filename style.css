@@ -357,6 +357,16 @@ div.footer h6 {
     div.logo {
         font-size: 1.3rem;
     }
+ 
+    div.hero-section {
+    background: #304353;
+    padding: 5rem;
+    width: 100vw;
+
+   }
+
+
+
     div.hero-content-heading h3 {
         font-size: 2rem;
     }
