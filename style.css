@@ -355,7 +355,7 @@ div.footer h6 {
 @media (max-width: 768px){
 
     div.logo {
-        font-size: 1.3rem;
+        font-size: 1rem;
     }
  
     div.hero-section {
@@ -364,8 +364,6 @@ div.footer h6 {
     width: 100vw;
 
    }
-
-
 
     div.hero-content-heading h3 {
         font-size: 2rem;
