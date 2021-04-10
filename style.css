@@ -440,7 +440,8 @@ div.footer h6 {
     .menuToggle{
         position: relative;
         left: 50px;
-        width: 40px;
+        width: 60px;
+        top: 0;
         height: 40px;
         background: url(images/me.png);
         background-size: 30px;
